@@ -1,2 +1,2 @@
 # hello-world
-hello world is a test repository
+hello world is the coolest test repository
